@@ -1,6 +1,6 @@
 # 📱 SymbianSwap DEX (Fluent Testnet)
 
-**SymbianSwap** adalah Decentralized Exchange (DEX) bertema nostalgia Symbian OS (Nokia era 2000-an). Dibangun di atas **Fluent Testnet** menggunakan protokol Uniswap V2.
+**SymbianSwap** adalah Decentralized Exchange (DEX) bertema nostalgia Symbian OS Dibangun di atas **Fluent Testnet** menggunakan protokol Uniswap V2.
 
 ## ✨ Fitur:
 - **Nokia UI Style**: Tampilan Metallic Blue khas HP N70/E63.
